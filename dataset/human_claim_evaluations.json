@@ -1,0 +1,72 @@
+[
+    {
+        "question_id": 1,
+        "claim_id": 1,
+        "classification": "CORRECT"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 2,
+        "classification": "CORRECT"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 3,
+        "classification": "INCORRECT"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 4,
+        "classification": "UNSUPPORTED"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 5,
+        "classification": "UNSUPPORTED"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 6,
+        "classification": "UNSUPPORTED"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 7,
+        "classification": "INCORRECT"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 8,
+        "classification": "UNSUPPORTED"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 9,
+        "classification": "UNSUPPORTED"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 10,
+        "classification": "UNSUPPORTED"
+    },
+    {
+        "question_id": 1,
+        "claim_id": 11,
+        "classification": "UNSUPPORTED"
+    },
+    {
+        "question_id": 2,
+        "claim_id": 1,
+        "classification": "CORRECT"
+    },
+    {
+        "question_id": 2,
+        "claim_id": 2,
+        "classification": "CORRECT"
+    },
+    {
+        "question_id": 2,
+        "claim_id": 3,
+        "classification": "UNSUPPORTED"
+    }
+]

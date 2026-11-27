@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "category": "AWS Basics",
+        "question": "What is Amazon S3?",
+        "reference_answer": "Amazon S3 is an object storage service provided by AWS that allows users to store and retrieve data as objects in buckets."
+    },
+    {
+        "id": 2,
+        "category": "AWS Compute",
+        "question": "What is Amazon EC2?",
+        "reference_answer": "Amazon EC2 is a cloud computing service that provides resizable virtual servers, called instances, in AWS."
+    },
+    {
+        "id": 3,
+        "category": "AWS Serverless",
+        "question": "What is AWS Lambda?",
+        "reference_answer": "AWS Lambda is a serverless compute service that runs code in response to events without requiring users to manage servers."
+    },
+    {
+        "id": 4,
+        "category": "AWS Database",
+        "question": "What is Amazon DynamoDB?",
+        "reference_answer": "Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability."
+    },
+    {
+        "id": 5,
+        "category": "AWS Networking",
+        "question": "What is Amazon VPC?",
+        "reference_answer": "Amazon VPC is a logically isolated virtual network in AWS where users can launch and control resources such as EC2 instances."
+    },
+    {
+        "id": 6,
+        "category": "AWS Security",
+        "question": "What is AWS IAM?",
+        "reference_answer": "AWS IAM is a service that controls authentication and authorization for AWS resources by managing users, roles, policies, and permissions."
+    },
+    {
+        "id": 7,
+        "category": "AWS AI",
+        "question": "What is Amazon Bedrock?",
+        "reference_answer": "Amazon Bedrock is a fully managed AWS service that provides access to foundation models through APIs for building generative AI applications."
+    },
+    {
+        "id": 8,
+        "category": "AWS Storage",
+        "question": "What is Amazon EBS?",
+        "reference_answer": "Amazon EBS provides persistent block storage volumes that can be attached to Amazon EC2 instances."
+    },
+    {
+        "id": 9,
+        "category": "AWS Integration",
+        "question": "What is Amazon SQS?",
+        "reference_answer": "Amazon SQS is a fully managed message queuing service that allows distributed applications to communicate asynchronously."
+    },
+    {
+        "id": 10,
+        "category": "AWS Monitoring",
+        "question": "What is Amazon CloudWatch?",
+        "reference_answer": "Amazon CloudWatch is an AWS monitoring and observability service that collects metrics, logs, and events from AWS resources and applications."
+    }
+]

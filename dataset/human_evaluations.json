@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "correctness": 3,
+        "relevance": 5,
+        "completeness": 4,
+        "hallucination": true
+    },
+    {
+        "id": 2,
+        "correctness": 4,
+        "relevance": 5,
+        "completeness": 5,
+        "hallucination": true
+    },
+    {
+        "id": 3,
+        "correctness": 4,
+        "relevance": 5,
+        "completeness": 5,
+        "hallucination": true
+    },
+    {
+        "id": 4,
+        "correctness": 3,
+        "relevance": 5,
+        "completeness": 4,
+        "hallucination": true
+    },
+    {
+        "id": 5,
+        "correctness": 3,
+        "relevance": 5,
+        "completeness": 5,
+        "hallucination": true
+    },
+    {
+        "id": 6,
+        "correctness": 3,
+        "relevance": 5,
+        "completeness": 5,
+        "hallucination": true
+    },
+    {
+        "id": 7,
+        "correctness": 1,
+        "relevance": 1,
+        "completeness": 1,
+        "hallucination": true
+    },
+    {
+        "id": 8,
+        "correctness": 3,
+        "relevance": 5,
+        "completeness": 4,
+        "hallucination": true
+    },
+    {
+        "id": 9,
+        "correctness": 3,
+        "relevance": 5,
+        "completeness": 5,
+        "hallucination": true
+    },
+    {
+        "id": 10,
+        "correctness": 4,
+        "relevance": 5,
+        "completeness": 5,
+        "hallucination": true
+    }
+]
